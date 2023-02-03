@@ -1,0 +1,1 @@
+Fast method from STL.
