@@ -1,0 +1,1 @@
+Classic sliding window.
